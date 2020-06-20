@@ -1,4 +1,4 @@
 package main.java;
 
-class Display {
+public class Display {
 }

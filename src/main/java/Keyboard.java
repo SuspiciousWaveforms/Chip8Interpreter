@@ -1,4 +1,4 @@
 package main.java;
 
-class Keyboard {
+public class Keyboard {
 }

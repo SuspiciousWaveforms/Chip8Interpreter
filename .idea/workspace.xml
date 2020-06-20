@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec333918-c228-44af-b71d-c72f693f7ab9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RAM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chip8Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chip8Interpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Keyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RAM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RAM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,9 +126,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="832" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592656020379" />
-    <state width="300" height="36" key="javadoc.popup.new" timestamp="1592664120458">
+    <state x="1283" y="332" width="623" height="380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592665634517">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="300" height="36" key="javadoc.popup.new/0.0.1920.1080@0.0.1920.1080" timestamp="1592664120458" />
+    <state x="1283" y="332" width="623" height="380" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1592665634517" />
+    <state x="1057" y="179" width="752" height="651" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592664863442">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1057" y="179" width="752" height="651" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1592664863442" />
+    <state width="300" height="36" key="javadoc.popup.new" timestamp="1592666388491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="300" height="36" key="javadoc.popup.new/0.0.1920.1080@0.0.1920.1080" timestamp="1592666388491" />
   </component>
 </project>
