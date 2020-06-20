@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec333918-c228-44af-b71d-c72f693f7ab9" name="Default Changelist" comment="" />
+    <list default="true" id="ec333918-c228-44af-b71d-c72f693f7ab9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RAM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1daGc74RaG9THPGWYHADrTZo3XK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -113,5 +126,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="832" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592656020379" />
+    <state width="300" height="36" key="javadoc.popup.new" timestamp="1592664120458">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="300" height="36" key="javadoc.popup.new/0.0.1920.1080@0.0.1920.1080" timestamp="1592664120458" />
   </component>
 </project>
